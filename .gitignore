@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+configs/
+imagenet_classes.txt
+mp_rank_00_model_states.pt
