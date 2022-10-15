@@ -1,5 +1,5 @@
 from magma import Magma
-from magma.image_input import ImageInpu
+from magma.image_input import ImageInput
 from utils.resnet50_inference import Resnet50Inference
 
 ## load magma into gpu:0 (you'll need a relatively big gpu)
