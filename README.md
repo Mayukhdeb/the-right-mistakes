@@ -1,5 +1,5 @@
 # the-right-mistakes
-Contains an example shown in one of the articles in GradientPub.
+Contains examples for the article I wrote for GradientPub
 
 ## Setup:
 1. Install [MAGMA](https://github.com/Aleph-Alpha/magma) + download config 
